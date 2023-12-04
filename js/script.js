@@ -29,4 +29,6 @@ team = [
         role: "Graphic Designer",
         image: "barbara-ramos-graphic-designer.jpg"
     }
-]
+];
+
+for(let i = 0; i < team.length; i++) console.log(team[i]);
